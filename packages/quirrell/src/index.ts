@@ -1,4 +1,4 @@
-import Editor from "./Editor";
+// import Editor from "./Editor";
 const test = "HELLO!";
 
-export { Editor, test };
+export { test };

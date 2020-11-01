@@ -1,7 +1,7 @@
 /** @jsx jsx */
 import { jsx, css } from "@emotion/core";
 import Quill from "quill";
-import "./quill.snow.css";
+// import "./quill.snow.css";
 import * as _ from "lodash";
 import React from "react";
 import { Button } from "@robbie-cook/react-components";
