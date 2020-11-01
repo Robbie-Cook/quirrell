@@ -1,5 +1,5 @@
 import React from "react";
-// import { Editor } from "quirrell";
+import { Editor } from "quirrell";
 
 function App() {
   return (
