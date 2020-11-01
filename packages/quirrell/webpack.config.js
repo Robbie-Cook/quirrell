@@ -38,7 +38,7 @@ module.exports = {
         loader: "source-map-loader",
       },
       {
-        test: /\.scss$/,
+        test: /\.(scss|css)$/,
         exclude: /node_modules/,
         use: [
           // Use the chain sass-loader -> css-loader -> style-loader
