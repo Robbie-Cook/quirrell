@@ -1,9 +1,9 @@
 import React from "react";
-import All from "quirrell";
+import { test } from "quirrell";
 
 function App() {
 
-  console.log(All);
+  console.log(test);
   return (
     <main>
       <h1>Quirrell</h1>

@@ -1,3 +1,4 @@
 import Editor from "./Editor";
+const test = "HELLO!";
 
-export default { Editor };
+export { Editor, test };

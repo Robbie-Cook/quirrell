@@ -8,7 +8,7 @@ module.exports = {
     filename: "index.js",
   },
 
-  mode: "production",
+  mode: process.env.NODE_ENV === "development" ? "development" : "production",
   target: "web",
 
   // Enable sourcemaps for debugging webpack's output.
