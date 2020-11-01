@@ -1,6 +1,6 @@
 {
   "name": "quirrell-test",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "dependencies": {
     "@emotion/core": "^10.0.35",
     "@testing-library/jest-dom": "^5.11.4",

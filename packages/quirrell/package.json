@@ -1,6 +1,6 @@
 {
   "name": "quirrell",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A nice React text editor",
   "main": "dist/index.js",
   "scripts": {
