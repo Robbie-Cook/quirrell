@@ -1,5 +1,5 @@
 import React from "react";
-// import { Editor } from "quirrell";
+import { Editor } from "quirrell";
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
       <blockquote>A nice text editor</blockquote>
       <section>
         <h2>Example</h2>
-        
+        <Editor />
       </section>
     </main>
   );
